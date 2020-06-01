@@ -1,4 +1,7 @@
 # crushftp-docker
+Pantallas
+https://docs.google.com/document/d/1yN7UuQJ-8i4hrr5ilmyXU00Cb45lZr388AXXynOniJ8/edit?usp=sharing
+
 Ejemplo de Crushftp en Docker
 
 1. Se construye la imagen en docker
