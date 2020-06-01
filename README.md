@@ -1,4 +1,4 @@
-# crushfto-docker
+# crushftp-docker
 Ejemplo de Crushftp en Docker
 
 $ docker build -t com.crushftp .
