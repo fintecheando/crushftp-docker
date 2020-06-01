@@ -1,0 +1,13 @@
+version: "2"
+services:
+
+  crushftp:
+    image: com.crushftp
+    ports:
+      - "21:21"   # ftp
+      - "2222:2222"   # sftp
+      - "8080:8080" # http backup port
+      - "443:443" # https
+    environment:
+      FTPADMINPASSWORD: admin    
+    restart: unless-stopped
